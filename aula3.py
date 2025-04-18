@@ -1,3 +1,0 @@
-#string ''
-
-print('jeffão')
